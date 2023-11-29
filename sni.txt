@@ -1,16 +1,43 @@
-samsung.com
-github.com
-github.io
-updates.cdn-apple.com
-jsdelivr.com
-cdn.jsdelivr.net
-cwiki.apache.org
-www.emirates.com
-addons.mozilla.org
-ftp.debian.org
-www.speedtest.net
-az764295.vo.msecnd.net
-cloudinary.com
-www.netlify.com
-stackoverflow.com
-www.gsmarena.com
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-89-generic x86_64)
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+  System information as of Wed Nov 29 07:14:24 PM +0330 2023
+  System load:  0.126953125        Processes:                232
+  Usage of /:   76.3% of 16.85GB   Users logged in:          1
+  Memory usage: 43%                IPv4 address for docker0: 172.17.0.1
+  Swap usage:   3%                 IPv4 address for ens160:  46.246.29.248
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Expanded Security Maintenance for Applications is not enabled.
+1 update can be applied immediately.
+To see these additional updates run: apt list --upgradable
+5 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+Last login: Wed Nov 29 18:56:44 2023 from 192.15.181.133
+root@ubuntu22:~# ./SNI-Finder -addr 46.246.29.248
+2023-11-29 19:14:31       46.246.30.17:443      ---- TLS v1.3    ALPN: h2 ----
+  torsas.se:443
+2023-11-29 19:14:32       46.246.30.110:443     ---- TLS v1.3    ALPN: h2 ----
+  arcticdesigncenter.se:443
+2023-11-29 19:14:32       46.246.30.139:443     ---- TLS v1.3    ALPN: h2 ----
+  plop.se:443
+2023-11-29 19:14:32       46.246.30.88:443      ---- TLS v1.3    ALPN: h2 ----
+  kurbanov.se:443
+2023-11-29 19:14:32       46.246.30.19:443      ---- TLS v1.3    ALPN: h2 ----
+  answeronline.se:443
+2023-11-29 19:14:32       46.246.30.174:443     ---- TLS v1.3    ALPN: h2 ----
+  lampspecialisten.se:443
+2023-11-29 19:14:32       46.246.30.5:443       ---- TLS v1.3    ALPN: h2 ----
+  vok.nu:443
+2023-11-29 19:14:32       46.246.30.206:443     ---- TLS v1.3    ALPN: h2 ----
+  neverspace.net:443
+2023-11-29 19:14:32       46.246.30.254:443     ---- TLS v1.3    ALPN: h2 ----
+  olofresare.se:443
+2023-11-29 19:14:32       46.246.30.166:443     ---- TLS v1.3    ALPN: h2 ----
+  alerawear.com:443
+2023-11-29 19:14:32       46.246.30.161:443     ---- TLS v1.3    ALPN: h2 ----
+  euronics.se:443
+2023-11-29 19:14:32       46.246.30.146:443     ---- TLS v1.3    ALPN: h2 ----
+  bolkro.se:443
